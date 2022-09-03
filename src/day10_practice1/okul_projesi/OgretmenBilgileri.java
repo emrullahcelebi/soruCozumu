@@ -1,4 +1,4 @@
-package day10_Practice.okul_proje;
+package day10_practice1.okul_projesi;
 
 public class OgretmenBilgileri {
 

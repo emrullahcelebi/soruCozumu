@@ -1,3 +1,5 @@
+package java_soruCozumu;
+
 public class MdArrays3 {
     public static void main(String[] args) {
         int[][]arr={{1,3,6}, {2,8}, {5,7,9,14}};

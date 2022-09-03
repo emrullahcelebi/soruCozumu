@@ -1,3 +1,5 @@
+package java_soruCozumu;
+
 public class Arrays06 {
     public static void main(String[] args) {
 

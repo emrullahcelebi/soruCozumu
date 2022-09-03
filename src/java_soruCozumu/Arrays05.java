@@ -1,3 +1,5 @@
+package java_soruCozumu;
+
 public class Arrays05 {
     public static void main(String[] args) {
         int arr1[][]={{0,2,-1},{3,8,9},{7}};

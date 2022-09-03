@@ -1,3 +1,5 @@
+package java_soruCozumu;
+
 import java.util.Scanner;
 
 public class Arrays04 {

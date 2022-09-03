@@ -1,3 +1,5 @@
+package java_soruCozumu;
+
 public class Arrays3 {
     public static void main(String[] args) {
         int []arr={5,7,-6,4,2,15,3,8,1};
