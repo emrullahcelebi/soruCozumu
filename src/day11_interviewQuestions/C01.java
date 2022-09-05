@@ -41,7 +41,7 @@ public class C01 {
                 System.out.println(arr[i - 1] + " karakteri " + (count + 1));
                 count = 0;
             }
-            if (i == arr.length - 1) {//for loop da en son geldiginde
+            if (i == arr.length - 1) {//for lop
                 System.out.println(arr[i] + " karakteri " + (count + 1));
             }
 
